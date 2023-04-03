@@ -214,8 +214,8 @@ button {
 @media screen and (max-width: 768px) {
 	#text-resultado{
 		margin-left: -200px;
-		margin-top: 310px;
-		width: 200px;
+		margin-top: 250px;
+		width: 250px;
 		height: 200px;
 	}
 }
